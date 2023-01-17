@@ -12,6 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo seré millonario con 200€ al mes](https://ermclm.medium.com/c%C3%B3mo-ser%C3%A9-millonario-con-200-al-mes-a4ea77b63870?source=rss-17f91d76a837------2)
+- [Getting started in Python 3 programming](https://ermclm.medium.com/getting-started-in-python-3-programming-bf89ea603bb?source=rss-17f91d76a837------2)
+- [How to learn programming in 100 days](https://ermclm.medium.com/how-to-learn-programming-in-100-days-e06bbad53fbd?source=rss-17f91d76a837------2)
+- [Cisco CCNA 200–301 Certification Resources](https://ermclm.medium.com/cisco-ccna-200-301-certification-resources-f88bd3161b1?source=rss-17f91d76a837------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
