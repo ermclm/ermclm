@@ -2,13 +2,13 @@
 <h3 align="left">A half-time bug hunter and passionate IT analyst from Spain</h3>
 
 
-- 🔭 I’m currently working on [Hunting company bugs](https://www.hackerone.com)
+- 🔭 I’m currently working on hunting company bugs in [hackerone](https://www.hackerone.com)
 
-- 🌱 I’m currently learning **Penetration testing**
+- 🌱 I’m currently learning **penetration testing**
 
-- 📝 I regularly write articles on [https://medium.com/@ermclm](https://medium.com/@ermclm)
+- 📝 I regularly write articles on [medium](https://medium.com/@ermclm)
 
-- 📫 How to reach me **ermclm@proton.me**
+- 📫 You can reach me on **ermclm@proton.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
