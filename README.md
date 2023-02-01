@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Techniques to discover subdomains](https://ermclm.medium.com/techniques-to-discover-subdomains-69c203cf4f3d?source=rss-17f91d76a837------2)
 - [Starting my path to bug hunter](https://ermclm.medium.com/starting-my-path-to-bug-hunter-16ac700f3084?source=rss-17f91d76a837------2)
 - [Get started in to python3 programming](https://ermclm.medium.com/getting-started-in-python-3-programming-bf89ea603bb?source=rss-17f91d76a837------2)
 - [Challenge for learning to program](https://ermclm.medium.com/how-to-learn-programming-in-100-days-e06bbad53fbd?source=rss-17f91d76a837------2)
-- [Cisco CCNA 200–301 Certification Resources](https://ermclm.medium.com/cisco-ccna-200-301-certification-resources-f88bd3161b1?source=rss-17f91d76a837------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
